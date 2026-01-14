@@ -20,7 +20,7 @@
 
 <br>
 
-# Kanana-2 Hightlights
+# Kanana-2 Highlights
 
 **Kanana-2**, the latest open-source evolution of the Kanana model family, is designed specifically for **Agentic AI**, presenting substantial enhancements in **tool calling, complex instruction following, and logical reasoning**. This new version adopts a cutting-edge architecture featuring MLA (Multi-head Latent Attention) and MoE (Mixture of Experts). These innovations allow the model to utilize significantly fewer active parameters compared to the previous 32.5B model while delivering superior performance and ensuring high throughput. Furthermore, the model **natively supports context lengths of up to 32,768 tokens**, enabling it to maintain coherence when handling extensive documents or long-context interactions.
 
@@ -663,7 +663,7 @@ Passing command line arguments for deployment:
 
 ## License
 
-The model weights are released under the [Kanana License](./LICENSE).
+The model weights are released under the [Kanana License](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-base-2601/blob/main/LICENSE).
 
 <br>
 
