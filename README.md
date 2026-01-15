@@ -646,7 +646,7 @@ Passing command line arguments for deployment:
 
 - `vllm`
     ```shell
-    vllm serve ... --hf-overrides '{"rope_scaling": {"rope_type":"deepseek_yarn","factor":4.0,"beta_fast":32,"beta_slow":1,"mscale":1.0,"mscale_all_dim":1.0,"original_max_position_embeddings":32768}, "max_position_embeddings": 131072}'
+    vllm serve ... --hf-overrides '{"max_position_embeddings": 131072, "rope_scaling": {"rope_type":"deepseek_yarn","factor":4.0,"beta_fast":32,"beta_slow":1,"mscale":1.0,"mscale_all_dim":1.0,"original_max_position_embeddings":32768}}'
     ```
 
 - `sglang`
