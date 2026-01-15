@@ -89,7 +89,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 </thead>
 <tbody>
 <tr>
-<td align="center" colspan="6">General Tasks</td>
+<td align="center" colspan="7">General Tasks</td>
 </tr>
 <tr>
 <td align="center">MMLU</td>
@@ -128,7 +128,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">26.47</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Mathematics Tasks</td>
+<td align="center" colspan="7">Mathematics Tasks</td>
 </tr>
 <tr>
 <td align="center">MATH</td>
@@ -149,7 +149,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">88.10</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Coding Tasks</td>
+<td align="center" colspan="7">Coding Tasks</td>
 </tr>
 <tr>
 <td align="center">HumanEval</td>
@@ -170,7 +170,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">72.58</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Korean Tasks</td>
+<td align="center" colspan="7">Korean Tasks</td>
 </tr>
 <tr>
 <td align="center">KMMLU</td>
@@ -227,7 +227,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">66.84</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Long Context Tasks</td>
+<td align="center" colspan="7">Long Context Tasks</td>
 </tr>
 <tr>
 <td align="center">RULER-4K</td>
@@ -293,7 +293,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 </thead>
 <tbody>
 <tr>
-<td align="center" colspan="6">Chat</td>
+<td align="center" colspan="7">Chat</td>
 </tr>
 <tr>
 <td align="center">MT-Bench</td>
@@ -314,7 +314,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">7.89</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Instruction Following</td>
+<td align="center" colspan="7">Instruction Following</td>
 </tr>
 <tr>
 <td align="center">IFEval</td>
@@ -353,7 +353,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">27.84</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Tool Calling</td>
+<td align="center" colspan="7">Tool Calling</td>
 </tr>
 <tr>
 <td align="center">BFCL-v3<br>(Live<sup>‡</sup>)</td>
@@ -374,7 +374,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">11.88</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Code Generation</td>
+<td align="center" colspan="7">Code Generation</td>
 </tr>
 <tr>
 <td align="center">HumanEval+</td>
@@ -395,7 +395,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">75.13</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Mathematics</td>
+<td align="center" colspan="7">Mathematics</td>
 </tr>
 <tr>
 <td align="center">GSM8K</td>
@@ -416,7 +416,7 @@ In addition, Kanana-2 now supports 6 languages, covering **Korean, English, Japa
 <td align="center">87.20</td>
 </tr>
 <tr>
-<td align="center" colspan="6">Reasoning & Knowledge</td>
+<td align="center" colspan="7">Reasoning & Knowledge</td>
 </tr>
 <tr>
 <td align="center">MMLU</td>
